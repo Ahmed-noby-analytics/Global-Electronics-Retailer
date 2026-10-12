@@ -4,7 +4,7 @@ An interactive Excel dashboard built with Power Pivot and DAX to analyze sales p
 
 The project explores revenue, gross profit, sales channels, product categories, country performance, physical store locations, and monthly sales trends. The goal is to turn raw sales data into meaningful insights that can support business decisions.
 
-![Dashboard Preview](images/dashboard.png)
+![Dashboard Preview](images/Dashboard.PNG)
 
 ---
 
