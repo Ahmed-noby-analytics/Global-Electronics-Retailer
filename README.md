@@ -105,7 +105,9 @@ A calculated column named `Delivery Days` was also created to measure delivery t
 
 The data model supports the DAX measures and PivotTables used throughout the dashboard.
 
-![Data Model](images/Data%20Model.PNG)
+![Data Model](Global-Electronics-Retailer/images/Data%20Model.PNG)
+
+
 
 ## 6. Metric Definitions
 
@@ -127,7 +129,11 @@ Gross profit reflects product costs only. It does not include operating expenses
 
 The measures were created using DAX in the Power Pivot data model.
 
-![DAX Measures](images/Dax_Measures.PNG)
+
+
+![DAX Measures](Global-Electronics-Retailer/images/Dax_Measures.PNG)
+
+
 
 ## 7. Dashboard Overview
 
@@ -155,7 +161,9 @@ The slicers update the dashboard KPIs and charts, making it easier to explore pe
 
 For example, when the dashboard is filtered to 2019, total revenue is approximately $18.26 million across 9,083 orders.
 
-![Dashboard Filtered to 2019](images/Dashboard%20Filter.PNG)
+
+
+![Dashboard Filtered to 2019](Global-Electronics-Retailer/images/Dashboard%20Filter.PNG)
 
 ## 8. Key Results
 
